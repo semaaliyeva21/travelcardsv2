@@ -1,2 +1,9 @@
-@import "./utils/home";
+@import "./base/reset";
+@import "./components/buttons";
+@import "./layout/footer";
 @import "./layout/grid";
+@import "./layout/header";
+@import "./utils/extends";
+@import "./utils/home";
+@import "./utils/mixins";
+@import "./utils/variables";
